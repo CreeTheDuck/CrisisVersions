@@ -19,3 +19,7 @@
 - **North Button** (Typically Y/Δ) - Button 2 (Assigned to item in Inventory Menu)
 - **East Button** (Typically B/○) - Button 3 (Assigned to item in Inventory Menu)
 - **Start Button** - Open Pause Menu
+
+### Notes
+File Location
+C:\Users\<span style="color:red">UserName</span>\AppData\LocalLow\CreeTheDuck\Crisis\Saves
