@@ -21,5 +21,5 @@
 - **Start Button** - Open Pause Menu
 
 ### Notes
-File Location
+File Location: 
 C:\Users\ $${\color{red}UserName}$$ \AppData\LocalLow\CreeTheDuck\Crisis\Saves
