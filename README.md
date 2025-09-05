@@ -1,10 +1,21 @@
-# CrisisVersions
-Controlls
-WASD | left stick => Move
-Left shift | left stick press => Toggle Run
-Q | South Button => Primary Action (Talk, Pickup, Roll ect)
-	Held => Push Block
-E | West Button => Button 1 Assign to Item in Inventory Menu
-Z | North Button => Button 2 Assign to Item in Inventory Menu
-X | East Button => Button 3 Assign to Item in Inventory Menu
-Esc | start Button => Open Pause Menu
+# CrisisVersions - Controls
+
+## Keyboard Controls
+- **WASD** - Move character
+- **Left Shift** - Toggle Run
+- **Q** - Primary Action (Talk, Pickup, Roll, etc.)
+  - *Hold* - Push Block
+- **E** - Button 1 (Assigned to item in Inventory Menu)
+- **Z** - Button 2 (Assigned to item in Inventory Menu)
+- **X** - Button 3 (Assigned to item in Inventory Menu)
+- **Esc** - Open Pause Menu
+
+## Gamepad Controls
+- **Left Stick** - Move character
+- **Left Stick Press** - Toggle Run
+- **South Button** (Typically A/X) - Primary Action (Talk, Pickup, Roll, etc.)
+  - *Hold* - Push Block
+- **West Button** (Typically X/□) - Button 1 (Assigned to item in Inventory Menu)
+- **North Button** (Typically Y/Δ) - Button 2 (Assigned to item in Inventory Menu)
+- **East Button** (Typically B/○) - Button 3 (Assigned to item in Inventory Menu)
+- **Start Button** - Open Pause Menu
