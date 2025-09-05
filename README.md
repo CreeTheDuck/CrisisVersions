@@ -22,4 +22,4 @@
 
 ### Notes
 File Location
-C:\Users\<span style="color:red">UserName</span>\AppData\LocalLow\CreeTheDuck\Crisis\Saves
+C:\Users\ $${\color{red}UserName}$$ \AppData\LocalLow\CreeTheDuck\Crisis\Saves
